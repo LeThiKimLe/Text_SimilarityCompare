@@ -1,0 +1,17 @@
+﻿  nhom2_detai6.cpp
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(383,7): warning C4101: 'index': unreferenced local variable
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(448,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(450,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(579,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(774,21): warning C4018: '<': signed/unsigned mismatch
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(821,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(828,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(832,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(968,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(969,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(975,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(976,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(1059,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(1122,6): warning C4101: 'len': unreferenced local variable
+D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\nhom2_detai6\nhom2_detai6.cpp(1121,8): warning C4101: 'c': unreferenced local variable
+  nhom2_detai6.vcxproj -> D:\HỌC KỲ I 2021\Data Structures And Algorithms\nhom2_detai6\Debug\nhom2_detai6.exe
