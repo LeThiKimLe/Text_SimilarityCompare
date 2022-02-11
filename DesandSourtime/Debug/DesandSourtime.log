@@ -1,0 +1,17 @@
+﻿  DesandSourtime.cpp
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(413,7): warning C4101: 'index': unreferenced local variable
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(478,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(480,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(553,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(749,21): warning C4018: '<': signed/unsigned mismatch
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(796,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(803,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(807,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(940,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(941,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(947,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(948,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(1032,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(1098,6): warning C4101: 'len': unreferenced local variable
+E:\CTDL\TimeSimulation\DesandSourtime\DesandSourtime.cpp(1097,8): warning C4101: 'c': unreferenced local variable
+  DesandSourtime.vcxproj -> E:\CTDL\TimeSimulation\Debug\DesandSourtime.exe

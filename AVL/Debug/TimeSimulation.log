@@ -1,0 +1,17 @@
+﻿  AVL.cpp
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(328,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(330,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(382,6): warning C4101: 'len': unreferenced local variable
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(381,8): warning C4101: 'c': unreferenced local variable
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(472,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(668,21): warning C4018: '<': signed/unsigned mismatch
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(715,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(722,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(726,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(818,6): warning C4101: 'index': unreferenced local variable
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(864,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(865,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(871,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(872,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\TimeSimulation\AVL.cpp(953,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  TimeSimulation.vcxproj -> E:\CTDL\TimeSimulation\Debug\TimeSimulation.exe

@@ -1,0 +1,14 @@
+﻿  TestSentence.cpp
+E:\CTDL\TimeSimulation\TestSentence\TestSentence.cpp(402,7): warning C4101: 'index': unreferenced local variable
+E:\CTDL\TimeSimulation\TestSentence\TestSentence.cpp(468,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\TimeSimulation\TestSentence\TestSentence.cpp(470,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\TimeSimulation\TestSentence\TestSentence.cpp(510,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\TestSentence\TestSentence.cpp(517,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\TestSentence\TestSentence.cpp(534,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\TestSentence\TestSentence.cpp(646,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\TestSentence\TestSentence.cpp(647,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\TestSentence\TestSentence.cpp(633,9): warning C4101: 'min2': unreferenced local variable
+E:\CTDL\TimeSimulation\TestSentence\TestSentence.cpp(723,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\TestSentence\TestSentence.cpp(783,6): warning C4101: 'len': unreferenced local variable
+E:\CTDL\TimeSimulation\TestSentence\TestSentence.cpp(782,8): warning C4101: 'c': unreferenced local variable
+  TestSentence.vcxproj -> E:\CTDL\TimeSimulation\Debug\TestSentence.exe

@@ -1,0 +1,17 @@
+﻿  BTree.cpp
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(412,7): warning C4101: 'index': unreferenced local variable
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(477,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(479,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(552,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(748,21): warning C4018: '<': signed/unsigned mismatch
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(795,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(802,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(806,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(939,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(940,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(946,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(947,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(1031,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(1097,6): warning C4101: 'len': unreferenced local variable
+E:\CTDL\TimeSimulation\BTree\BTree.cpp(1096,8): warning C4101: 'c': unreferenced local variable
+  BTree.vcxproj -> E:\CTDL\TimeSimulation\Debug\BTree.exe
